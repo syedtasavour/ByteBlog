@@ -2,6 +2,9 @@
 
 This project is a minimal blogging platform built with React for the front-end and Appwrite for back-end services like authentication, database management, and file storage.
 
+## 🌟 Show Your Support
+If you found this project helpful, give it a ⭐️!
+
 ## Features
 - Modern Single-Page Application (SPA) using React.
 - Integration with Appwrite for backend data and user management.
