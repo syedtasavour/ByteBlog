@@ -14,7 +14,7 @@ function Footer() {
                             </div>
                             <div>
                                 <p className="text-sm text-gray-600">
-                                    &copy; Copyright 2023. All Rights Reserved by Syed Tasavour.
+                                    &copy; Built with passion (and a lot of coffee) by Syed Tasavour.
                                 </p>
                             </div>
                         </div>
